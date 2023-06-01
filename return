@@ -1,0 +1,35 @@
+[33mcommit 83b3f936e46febf02c5e8222bb78757a8e708ba2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Mon May 29 21:37:10 2023 -0300
+
+    Incluindo dados das aulas de comparações, console, template strings e ternário
+
+[33mcommit 4d3aad59f524dcc6ddd7f0ddf19e49c9c9a95179[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Wed May 24 21:47:17 2023 -0300
+
+    Subindo arquivos tipagem.js, varial-por-escopo.js e erros.js da aula 02, além do ajuste em conversoes.js
+
+[33mcommit a4928b012ffaba8d857ca0b6b95f4b86011ec468[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Wed May 24 20:17:17 2023 -0300
+
+    Aula 2 com os arquivos js-case-sensitive.js e conversoes.js
+
+[33mcommit f20d98fe8b289dbf2c5b9d66749df48fb4642791[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Mon May 22 21:09:04 2023 -0300
+
+    Finalizando a aula 1 e iniciando a aula 2, com os temas null, undefined, truthy e falsy
+
+[33mcommit 898e0c8bcf796259bcedbba2cb479033fbc80877[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Wed May 17 20:05:56 2023 -0300
+
+    Inclusão do arquivo js-case-sensitive, ainda da aula 1
+
+[33mcommit 97c51dae26378b1a8c20178a5823afbbbbcf2857[m
+Author: Richard Cardinot <rixa.git@gmail.com>
+Date:   Wed May 17 19:53:11 2023 -0300
+
+    exemplos da aula 1
